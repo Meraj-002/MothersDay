@@ -114,7 +114,7 @@ export default function FinalCard() {
 
                                         <h3 className="text-3xl md:text-4xl font-bold text-pink-600 mb-2">With all my love,</h3>
 
-                                        <h3 className="text-4xl md:text-5xl font-bold text-purple-600">Anuj</h3>
+                                        <h3 className="text-4xl md:text-5xl font-bold text-purple-600">Meraj</h3>
                                     </motion.div>
 
                                     <motion.p
@@ -123,7 +123,7 @@ export default function FinalCard() {
                                         animate={{ opacity: 1 }}
                                         transition={{ delay: 0.5 }}
                                     >
-                                        I love you more than words can express. Thank you for being my everything, Mom!❤️
+                                        I love you more than words can express. Thank you for being my everything, Ammi!❤️
                                     </motion.p>
 
                                     <motion.div
