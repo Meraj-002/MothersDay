@@ -40,7 +40,7 @@ export default function WelcomeCard({ nextStep }) {
                                     animate={{ opacity: 1, y: 0 }}
                                     transition={{ delay: 0.3 }}
                                 >
-                                    <h2 className="text-3xl md:text-4xl mb-4 relative z-10">To Maa</h2>
+                                    <h2 className="text-3xl md:text-4xl mb-4 relative z-10">To my Ammi♥</h2>
                                     <p className="text-lg md:text-xl mb-6">A special message for Mother&apos;s Day</p>
 
                                     <motion.button
